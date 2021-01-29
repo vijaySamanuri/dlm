@@ -3,4 +3,9 @@
   "version" : "1.4",
   "artifactType" : "THEME",
   "artifactDependencyList" : null
+}, {
+  "name" : "youtube",
+  "version" : "2.7",
+  "artifactType" : "PREFAB",
+  "artifactDependencyList" : null
 } ]
