@@ -301,6 +301,12 @@
                 </dependency>
             </dependencies>
         </profile>
+        <profile>
+            <id>stage</id>
+            <properties>
+                <profile.props.file>stage.properties</profile.props.file>
+            </properties>
+        </profile>
     </profiles>
     <repositories>
         <repository>
